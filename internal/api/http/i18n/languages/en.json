@@ -1,0 +1,15 @@
+{
+    "shorten": {
+        "shorten_url": {
+            "error_request": "Invalid request body has been given",
+            "error_shorten": "Error occured while shorening the url, please retry later",
+            "success": "The url has been shorten successfully"
+        },
+        "retrieve_url": {
+            "id_not_given": "The id value should be given",
+            "not_exists": "The id not exists",
+            "error": "Internal error while retrieving the url, please retry later",
+            "success": "The url has been retrieved successfully"
+        }
+    }
+}
