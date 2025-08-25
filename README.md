@@ -1,9 +1,7 @@
 # URLShortener
 
 ![Go Version](https://img.shields.io/badge/Golang-1.24-66ADD8?style=for-the-badge&logo=go)
-![App Version](https://img.shields.io/github/v/tag/arashzjahangiri/URLShortener?sort=semver&style=for-the-badge&logo=github)
 ![Repo Size](https://img.shields.io/github/repo-size/arashzjahangiri/URLShortener?logo=github&style=for-the-badge)
-![Coverage](https://img.shields.io/codecov/c/github/arashzjahangiri/URLShortener?logo=codecov&style=for-the-badge)
 
 **URLShortener** is a modern, efficient, and scalable URL shortener built with Go. The name reflects its purpose: simplifying long URLs into concise, manageable links.
 
